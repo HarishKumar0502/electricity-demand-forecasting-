@@ -38,4 +38,5 @@ Humidity 💧
 
 Demand ⚡
 📸 Output Preview
-<p align="center"> <img src="https://via.placeholder.com/600x300.png?text=Prediction+Graph" /> </p>
+<img width="1255" height="547" alt="output" src="https://github.com/user-attachments/assets/7b81247d-461b-44f9-979d-f835c6594073" />
+
